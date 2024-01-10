@@ -22,7 +22,7 @@ eleventyNavigation:
 - Use the appropriate type of input for the data being gathered.
 - Ensure the `for` and `id` attributes have matching values.
 
-We currently show 8 of the [22 types of inputs](https://www.w3schools.com/html/html_form_input_types.asp).
+We currently show 8 of the [22 types of inputs](https://www.w3schools.com/html/html_form_input_types.asp), [Iqratechnology- HTML – Attribute](https://iqratechnology.com/academy/html-training/html-attribute/).
 
 ## Usage
 
@@ -170,6 +170,7 @@ Note: This is not the same as a disabled field. A disabled field prevents _user 
 ## Resources
 
 - [W3Schools.com - 22 Types of Inputs](https://www.w3schools.com/html/html_form_input_types.asp)
+- [Iqratechnology- HTML – Attribute](https://iqratechnology.com/academy/html-training/html-attribute/)
 - [Section 508 Guidelines](https://www.section508.gov/)
 - [WCAG 2.2](https://www.w3.org/TR/WCAG22/)
 - [Bootstrap Documentation - Forms](https://getbootstrap.com/docs/5.3/forms/overview/)
